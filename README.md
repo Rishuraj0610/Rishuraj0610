@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishu Raj</h1>
+<h1 align="center">Computer Science Engineering student passionate about Software Development, Data Science, AI, and Cloud Technologies. I enjoy solving DSA problems, building real-world projects, and continuously learning new technologies</h1>
 <h3 align="center">AI/ML & Generative AI Developer | LangChain · LangGraph · Groq | B.Tech CSE @ NIET 2027</h3>
 
 <p align="center">
@@ -15,8 +15,6 @@
 ### 🚀 About Me
 - 🎓 B.Tech CSE Student at **NIET, Greater Noida** (2023–2027)
 - 🤖 Building **Agentic RAG systems** with LangGraph, LangChain & Groq LLMs
-- 🏆 **Rank 1** in College DSA Examination
-- ✅ Selected for **Amazon ML Summer School 2025**
 - 🔍 Actively seeking **AI/ML & GenAI Internships**
 - 💬 Ask me about: `LangGraph` `RAG Pipelines` `LLMs` `Streamlit`
 
