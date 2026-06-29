@@ -1,4 +1,4 @@
-<h1 align="center">Computer Science Engineering student passionate about Software Development, Data Science, AI, and Cloud Technologies. I enjoy solving DSA problems, building real-world projects, and continuously learning new technologies</h1>
+<h1 align="center">Hi 👋, I'm Rishu Raj</h1>
 <h3 align="center">AI/ML & Generative AI Developer | LangChain · LangGraph · Groq | B.Tech CSE @ NIET 2027</h3>
 
 <p align="center">
